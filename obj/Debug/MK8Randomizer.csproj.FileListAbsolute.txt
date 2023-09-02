@@ -1,0 +1,12 @@
+C:\Users\OwerT\source\repos\MK8Randomizer\bin\Debug\MK8Randomizer.exe.config
+C:\Users\OwerT\source\repos\MK8Randomizer\bin\Debug\MK8Randomizer.exe
+C:\Users\OwerT\source\repos\MK8Randomizer\bin\Debug\MK8Randomizer.pdb
+C:\Users\OwerT\source\repos\MK8Randomizer\obj\Debug\MK8Randomizer.csproj.AssemblyReference.cache
+C:\Users\OwerT\source\repos\MK8Randomizer\obj\Debug\MK8Randomizer.BDD.resources
+C:\Users\OwerT\source\repos\MK8Randomizer\obj\Debug\MK8Randomizer.Main.resources
+C:\Users\OwerT\source\repos\MK8Randomizer\obj\Debug\MK8Randomizer.Properties.Resources.resources
+C:\Users\OwerT\source\repos\MK8Randomizer\obj\Debug\MK8Randomizer.csproj.GenerateResource.cache
+C:\Users\OwerT\source\repos\MK8Randomizer\obj\Debug\MK8Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\OwerT\source\repos\MK8Randomizer\obj\Debug\MK8Randomizer.exe
+C:\Users\OwerT\source\repos\MK8Randomizer\obj\Debug\MK8Randomizer.pdb
+C:\Users\OwerT\source\repos\MK8Randomizer\obj\Debug\MK8Randomizer.AboutBox1.resources
